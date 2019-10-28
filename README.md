@@ -6,5 +6,6 @@ Use this project as GUI to controll Bluetooth MAX7219 Messageboard or Running Te
 To understand the usage, please watch these videos
 - https://youtu.be/tP6NaTEM98c
 - https://youtu.be/6PS0qiNqFws
+- https://youtu.be/4f79jZ3JeQU
 
 All my videos are in Indonesian. But no worries, I will always create English CC for all video I shared.
