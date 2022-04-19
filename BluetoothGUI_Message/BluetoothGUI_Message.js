@@ -39,7 +39,7 @@ function setup() {
   disconnectButton.mousePressed(disconnectBle);
   disconnectButton.position(15, 15);
   
-  inputMsg = createInput("Hello");
+  inputMsg = createInput("Hello World");
   inputMsg.position(15, 80);  
   buttonSubmitMsg = createButton('submit');
   buttonSubmitMsg.position(15 + inputMsg.width + 5, 80);
